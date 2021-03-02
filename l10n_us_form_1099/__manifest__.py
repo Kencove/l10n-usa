@@ -13,7 +13,7 @@
     "category": "Customers",
     "maintainer": "Open Source Integrators",
     "website": "https://github.com/OCA/l10n-usa",
-    "depends": ["contacts", "account", "partner_legal_number"],
+    "depends": ["contacts", "account", "l10n_us_partner_legal_number"],
     "data": [
         "data/type_1099_data.xml",
         "data/box_1099_misc_data.xml",
